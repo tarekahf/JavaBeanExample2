@@ -1,3 +1,14 @@
 {
-    "java.project.outputPath": "build/classes"
+    "java.project.outputPath": "build/classes",
+    "files.exclude": {
+        "**/.classpath": false,
+        "**/.DS_Store": true,
+        "**/.git": true,
+        "**/.hg": true,
+        "**/.project": false,
+        "**/.settings":false,
+        "**/.svn": true,
+        "**/CVS": true,
+        "**/Thumbs.db": true
+    }
 }
