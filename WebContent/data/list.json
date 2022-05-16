@@ -1,4 +1,6 @@
-[
-	{"Name":"Tarek", "subject":"Math"},
-	{"Name":"John", "subject":"English"}	
-]
+{
+	"list":[
+		{"Name":"Tarek", "subject":"Math"},
+		{"Name":"John", "subject":"English"}	
+	]
+}
